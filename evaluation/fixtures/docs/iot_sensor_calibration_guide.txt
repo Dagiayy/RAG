@@ -1,0 +1,5 @@
+LoRaWAN Soil Moisture Sensor Calibration Guide
+
+Each LoRaWAN soil moisture sensor must be calibrated every 90 days to maintain measurement accuracy within plus or minus 2 percent volumetric water content. Sensor batteries are rated for approximately 18 months of continuous operation under normal duty cycles.
+
+Calibration requires a reference probe and a two-point calibration procedure: dry soil and saturated soil readings. Sensors reporting values outside the expected range for more than 3 consecutive transmissions should be flagged for field inspection.

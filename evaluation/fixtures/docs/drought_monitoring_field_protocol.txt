@@ -1,0 +1,5 @@
+Drought Resilience Monitoring — Field Data Collection Protocol
+
+Field data collectors must record GPS coordinates with a minimum accuracy of 5 meters using the ODK Collect application. Soil moisture readings are taken at a depth of 30 centimeters at each monitoring point.
+
+Data collection rounds occur every 14 days during the dry season and every 30 days during the wet season. Any sensor malfunction must be reported to the IoT & Sensor Engineering team within 24 hours.
